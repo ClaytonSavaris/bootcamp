@@ -1,2 +1,2 @@
-# bootcamp
-Utilizando no bootcamp DevOps
+# wscicd
+Workshop CiCd
